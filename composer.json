@@ -1,12 +1,11 @@
 {
-  "name": "zuken/php-dto2doc",
-  "description": "",
-  "require": {
-    "cebe/php-openapi": "^1.7"
-  },
-  "autoload": {
-    "psr-4": {
-      "Zuken\\DocsGenerator\\": "src/"
+    "name": "zuken/php-dto2doc",
+    "autoload": {
+        "psr-4": {
+            "Zuken\\DocsGenerator\\": "src/"
+        }
+    },
+    "require": {
+      "cebe/php-openapi": "^1.7"
     }
-  }
 }
