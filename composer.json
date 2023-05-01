@@ -1,5 +1,6 @@
 {
     "name": "zuken/php-dto2doc",
+    "version": "0.0.1",
     "autoload": {
         "psr-4": {
             "Zuken\\DocsGenerator\\": "src/"
