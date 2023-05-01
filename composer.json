@@ -8,5 +8,6 @@
     },
     "require": {
       "cebe/php-openapi": "^1.7"
-    }
+    },
+    "license": "MIT"
 }
